@@ -126,3 +126,5 @@ After the calculations are finished, a new point will be visible on the graph sh
 </p>
 
 ## Contributing
+We happily welcome contributions to ML-Kraken. Please contact us in case of any questions/concerns.
+
